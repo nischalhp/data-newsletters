@@ -13,9 +13,13 @@ Please raise a pull request, in case you would like to add a newsletter.
 
 ## Data engineering
 
+* [Data engineering Weekly by Ananth Packkildurai](https://www.dataengineeringweekly.com/)
+
 
 
 ## Machine Learning Ops (MLOps)
+
+* 
 
 
 
